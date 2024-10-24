@@ -136,7 +136,7 @@ p {
 
 
 /* Extra small devices (portrait phones, less than 576px) */
-@media (max-width: 1055px) and (min-width: 400px) {
+@media (max-width: 1055px) and (min-width: 200px) {
     header {
         flex-direction: column; /* Stack elements vertically on mobile */
         align-items: center; /* Center items horizontally */
